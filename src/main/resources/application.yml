@@ -1,0 +1,2 @@
+logging.level.org.apache.zookeeper: warn
+logging.level.org.I0Itec.zkclient: warn
